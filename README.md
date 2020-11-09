@@ -32,10 +32,15 @@ you want to focus on `commits` and `contrib`.
 Commits are very easy to generate, simply create a private repo
 named `test` so that it will look like you are testing GitHub
 or any bug. Now, make sure that you turn on the include
-private commits in the API. Then you want to have say 2k commits,
+private commits in the API. Then you want to have say 2k
+to 3k commits,
 it does not mean you are coding, simply create a file
 and for every change, even just a single letter, click commit.
 
 Contributions to repos are actually your repos and
 repos of others when you create pull requests even
-if they simply closed them.
+if they simply closed them. But of course, you can't create
+a spam. So, in order to achieve this, you want to focus
+on a pull request even simply changing something at the 
+README file of others. What I did was adding a Page View.
+If you click the README file of others 
