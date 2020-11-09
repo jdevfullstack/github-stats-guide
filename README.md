@@ -43,4 +43,9 @@ if they simply closed them. But of course, you can't create
 a spam. So, in order to achieve this, you want to focus
 on a pull request even simply changing something at the 
 README file of others. What I did was adding a Page View.
-If you click the README file of others 
+If you click the README file of others, then click
+the edit button, it will automatically create a fork 
+(your copy of that particular repo) (we'll return to
+forking later to generate stars).
+
+
