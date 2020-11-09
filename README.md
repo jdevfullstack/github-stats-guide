@@ -4,8 +4,18 @@ is an external service to display your ranking based on commits, PRs,
 contribution etc. You just simply need the URL and change the details,
 include it in your GitHub profile and you're done.
 
+If you don't have any idea how it works, it is an external web app
+that uses GitHub data (through its API) to generate your rank. 
+You don't need to install anything you just simply get the URL
+of the app, change the details so that it's referring to your account
+and you're done.
 
-There is the computation for that:
+```
+https://github-readme-stats.vercel.app/api?username=[yourusername]&show_icons=true
+```
+now when you want include your private repos, include `&count_private=true`.
+
+The weight and the components involve how they generate the rank:
 
 ```
   const COMMITS_OFFSET = 1.65;
