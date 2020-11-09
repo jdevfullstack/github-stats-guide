@@ -29,6 +29,7 @@ The weight and the components involve how they generate the rank:
 this is directly from the code of the app itself, so 
 you want to focus on `commits` and `contrib`.
 
+## Commits
 Commits are very easy to generate, simply create a private repo
 named `test` so that it will look like you are testing GitHub
 or any bug. Now, make sure that you turn on the include
@@ -37,6 +38,7 @@ to 3k commits,
 it does not mean you are coding, simply create a file
 and for every change, even just a single letter, click commit.
 
+## Contributions
 Contributions to repos are actually your repos and
 repos of others when you create pull requests even
 if they simply closed them. But of course, you can't create
