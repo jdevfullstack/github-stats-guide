@@ -16,3 +16,12 @@ There is the computation for that:
   ```
 this is directly from the code of the app itself, so 
 you want to focus on `commits` and `contrib`.
+
+Commits are very easy to generate, simply create a private repo
+named `test` so that it will look like you are testing GitHub
+or any bug. Now, make sure that you turn on the include
+private commits in the API.
+
+Contributions to repos are actually your repos and
+repos of others when you create pull requests even
+if they simply closed them.
