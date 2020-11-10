@@ -11,7 +11,7 @@ of the app, change the details so that it's referring to your account
 and you're done.
 
 ```
-https://github-readme-stats.vercel.app/api?username=[yourusername]&show_icons=true
+https://github-readme-stats.vercel.app/api?username=[yourusername]
 ```
 now when you want include your private repos, include `&count_private=true`.
 
