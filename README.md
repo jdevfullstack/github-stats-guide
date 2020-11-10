@@ -63,4 +63,14 @@ So, say, you fork 1k repos and you star them
 by yourself, you will still have 1k stars and
 it's part of the computation.
 
+My suggestion is that you fork those small and
+medium-sized projects. For one, it will
+benefit them because those big projects
+they will simply ignore it. Plus, raising
+an issue or a pull request in a big project
+will be tedious. And the chances is high
+if you want to change something even in the README
+that it will be accepted.
+
+
 
