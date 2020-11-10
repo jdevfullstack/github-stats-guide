@@ -50,4 +50,16 @@ the edit button, it will automatically create a fork
 (your copy of that particular repo) (we'll return to
 forking later to generate stars).
 
+## Forking Repos & Your Stars 
+You can generate more stars by forking several repos
+and placing the star for each fork.
+
+Take note, this is not the stars in GitHub when you
+leave a star to an external repo. This is the star
+that you received from your forked repos and original
+repos, your star counted also.
+So, say, you fork 1k repos and you star them
+by yourself, you will still have 1k stars and
+it's part of the computation.
+
 
