@@ -13,7 +13,7 @@ and you're done.
 ```
 https://github-readme-stats.vercel.app/api?username=[yourusername]
 ```
-now when you want include your private repos, include `&count_private=true`.
+make sure you include your private repos, include `&count_private=true`.
 
 The weight and the components involve how they generate the rank:
 
