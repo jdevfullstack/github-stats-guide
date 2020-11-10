@@ -72,5 +72,18 @@ will be tedious. And the chances is high
 if you want to change something even in the README
 that it will be accepted.
 
+## Followers
+You don't need to be famous to have followers.
+All you need is the initiative to follow others too.
+It's just like building a linkedin network. 
+
+The simple rule is try to reach out: follow others
+that will follow you back and for those who followed
+you, follow them back. The chances is high if you
+look at those followers of a user even though
+they are not actually famous or their profile is
+not even good or they have also that kind of initiative.
+Even though the weight is just .45, still
+you need an audience to your project.
 
 
