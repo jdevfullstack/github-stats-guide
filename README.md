@@ -65,8 +65,6 @@ GitHub. Others were already using GitHub for
 laws article, to-do list, music composition,
 itinerary etc.
 
-That's the purpose of this hacking.
-
 ## Contributed To
 The `Contributed To` component as part of the 
 computation is actually your repos and
