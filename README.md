@@ -62,7 +62,7 @@ particularly for the README file.
 
 Or, if you are a writer writing stories, do that in
 GitHub. Others were already using GitHub for
-laws article, to do list, music composition,
+laws article, to-do list, music composition,
 itinerary etc.
 
 That's the purpose of this hacking.
