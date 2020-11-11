@@ -70,7 +70,7 @@ That's the purpose of this hacking.
 ## Contributed To
 The `Contributed To` component as part of the 
 computation is actually your repos and
-repos of others when you create pull requests even
+repos of others when you create pull requests, even
 if they simply closed them. But of course, you can't create
 spam. So, in order to achieve this, you want to focus
 on a pull request even simply changing something at the 
