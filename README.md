@@ -37,6 +37,7 @@ private commits in the API. Then you want to have say 2k
 to 3k commits,
 it does not mean you are coding, simply create a file
 and for every change, even just a single letter, click commit.
+That's the purpose of this hacking.
 
 ## Rationale
 This is not to cheat an app or to fake something. 
