@@ -13,8 +13,7 @@ and you're done.
 ```
 https://github-readme-stats.vercel.app/api?username=[yourusername]
 ```
-make sure you include your private repos, 
-include `&count_private=true`.
+make sure you include your private repos, `&count_private=true`.
 
 Now, in order for you to display this in your profile,
 if ever you don't have one, make sure you create one.
@@ -59,7 +58,7 @@ But remember, the stats of GitHub can be misleading
 even if a software developer is good enough.
 
 If you only use GitHub to code and code, you
-would not have much good standing. GitHub
+would not have a good standing. GitHub
 encourages non-code use, always remember that.
 It's just like it can be used as Google Docs.
 That's the point.
@@ -95,7 +94,7 @@ with GitHub Pages.
 The `Contributed To` component as part of the 
 computation is actually your repos and
 repos of others when you create pull requests, even
-if they simply closed them. But of course, you can't create
+if they were not merged. But of course, you can't create
 spam. So, in order to achieve this, you want to focus
 on a pull request. It's not always about submitting
 proposed changes in a code base,
@@ -108,7 +107,7 @@ Then, edit the file and create a pull request.
 
 ## Forking Repos & Your Stars 
 You can generate more stars by forking several repos
-and placing the star for each fork.
+and leaving a star to each fork.
 
 Take note, this is not the stars in GitHub when you
 leave a star to an external repo. This is the star
@@ -121,10 +120,7 @@ it's part of the computation.
 
 My suggestion is that you fork those small and
 medium-sized projects. For one, it will
-benefit them because those big projects,
-they will simply ignore it. Plus, raising
-an issue or a pull request in a big project
-will be tedious. And the chances are high
+benefit them, they need support. And the chances are high
 if you want to change something even in the README
 that it will be accepted.
 
