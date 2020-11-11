@@ -38,6 +38,14 @@ to 3k commits,
 it does not mean you are coding, simply create a file
 and for every change, even just a single letter, click commit.
 
+## Rationale
+This is not to cheat an app or to fake something. 
+Remember, the stats of GitHub can be misleading
+even if a software developer is good enough.
+
+If you really feel that you deserve that rank,
+then go for it.
+
 ## Contributions
 Contributions to repos are actually your repos and
 repos of others when you create pull requests even
