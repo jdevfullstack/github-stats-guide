@@ -1,7 +1,7 @@
 # Hacking The Github Stats
 The [GitHub Stats](https://github.com/anuraghazra/github-readme-stats) 
 is an external service to display your ranking based on commits, PRs,
-contribution etc. You just simply need the URL and change the details,
+issues etc. You just simply need the URL and change the details,
 include it in your GitHub profile and you're done.
 
 If you don't have any idea how it works, it is an external web app
@@ -13,9 +13,11 @@ and you're done.
 ```
 https://github-readme-stats.vercel.app/api?username=[yourusername]
 ```
-make sure you include your private repos, include `&count_private=true`.
+make sure you include your private repos, 
+include `&count_private=true`.
 
-The weight and the components involve how they generate the rank:
+The weight and the components involve 
+how they generate the rank:
 
 ```
   const COMMITS_OFFSET = 1.65;
@@ -30,37 +32,50 @@ this is directly from the code of the app itself, so
 you want to focus on `commits` and `contrib`.
 
 ## Rationale
-This is not to cheat an app or to fake something. 
-Remember, the stats of GitHub can be misleading
+This is not to cheat an app or to fake something.
+Much more, this is not to encourage spam.
+
+But remember, the stats of GitHub can be misleading
 even if a software developer is good enough.
+If you only use GitHub to code and code, you
+would not have much good standing. GitHub
+encourages non-code use, always remember that.
+It's just like it can be used just like Google Docs.
+That's the point.
 
 If you really feel that you deserve that rank,
 then go for it.
 
 ## Commits
-Commits are very easy to generate, simply create a private repo
-named `test` so that it will look like you are testing GitHub
-or any bug. Now, make sure that you turn on 
-private commits in the API. Then you want to have say 2k
-to 3k commits,
-it does not mean you are coding, simply create a file
-and for every change, even just a single letter, click commit.
+Make sure that you turn on 
+private commits in the API, as was
+instructed above, so that you can simply
+create a diary, for example. It will generate 
+a lot of commits.
 
-Or, you can simply have a private repo that is your
-diary. Of course, it will generate a lot of commits
-or simply create a website. GitHub itself
-encourages non-code project so there is no wrong
-doing these things.
+Another option is to simply create a tutorial website,
+even if it is not tech-related. Don't you know
+that the markdown is really for blogging back then?
+It simplifies everything, even a tutorial website.
+Markdown is the default markup language of GitHub,
+particularly for the README file.
+
+Or, if you are a writer writing stories, do that in
+GitHub. Others were already using GitHub for
+laws article, to do list, music composition,
+itinerary etc.
 
 That's the purpose of this hacking.
 
-## Contributions
-Contributions to repos are actually your repos and
+## Contributed To
+The `Contributed To` component as part of the 
+computation is actually your repos and
 repos of others when you create pull requests even
 if they simply closed them. But of course, you can't create
 spam. So, in order to achieve this, you want to focus
 on a pull request even simply changing something at the 
-README file of others. What I did was add a Page View.
+README file of others. What I did was to add
+a Page View in a README file.
 If you click the README file of others, then click
 the edit button, it will automatically create a fork 
 (your copy of that particular repo) (we'll return to
