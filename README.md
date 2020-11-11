@@ -6,7 +6,7 @@ include it in your GitHub profile and you're done.
 
 If you don't have any idea how it works, it is an external web app
 that uses GitHub data (through its API) to generate your rank. 
-You don't need to install anything you just simply get the URL
+You don't need to install anything, you just simply get the URL
 of the app, change the details so that it's referring to your account
 and you're done.
 
@@ -32,7 +32,7 @@ you want to focus on `commits` and `contrib`.
 ## Commits
 Commits are very easy to generate, simply create a private repo
 named `test` so that it will look like you are testing GitHub
-or any bug. Now, make sure that you turn on the include
+or any bug. Now, make sure that you turn on 
 private commits in the API. Then you want to have say 2k
 to 3k commits,
 it does not mean you are coding, simply create a file
@@ -51,9 +51,9 @@ then go for it.
 Contributions to repos are actually your repos and
 repos of others when you create pull requests even
 if they simply closed them. But of course, you can't create
-a spam. So, in order to achieve this, you want to focus
+spam. So, in order to achieve this, you want to focus
 on a pull request even simply changing something at the 
-README file of others. What I did was adding a Page View.
+README file of others. What I did was add a Page View.
 If you click the README file of others, then click
 the edit button, it will automatically create a fork 
 (your copy of that particular repo) (we'll return to
@@ -74,10 +74,10 @@ it's part of the computation.
 
 My suggestion is that you fork those small and
 medium-sized projects. For one, it will
-benefit them because those big projects
+benefit them because those big projects,
 they will simply ignore it. Plus, raising
 an issue or a pull request in a big project
-will be tedious. And the chances is high
+will be tedious. And the chances are high
 if you want to change something even in the README
 that it will be accepted.
 
@@ -88,7 +88,7 @@ It's just like building a linkedin network.
 
 The simple rule is try to reach out: follow others
 that will follow you back and for those who followed
-you, follow them back. The chances is high if you
+you, follow them back. The chances are high if you
 look at those followers of a user even though
 they are not actually famous or their profile is
 not even good or they have also that kind of initiative.
