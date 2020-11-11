@@ -23,7 +23,7 @@ It is a special repository that will appear in your profile.
 
 so mine is: `xdvrx1/xdvrx1`
 
-Make sure that you initial it with the `README.md`, if not
+Make sure that you initialize it with the `README.md`, if not,
 you should create one also.
 
 Add description about you and this, of course, you must change
@@ -83,8 +83,8 @@ particularly for the README file.
 
 Or, if you are a writer writing stories, do that in
 GitHub. Others were already using GitHub for
-laws article, to-do list, music composition,
-itinerary etc.
+laws articles, to-do lists, music compositions,
+itineraries etc.
 
 You can check 
 [this](https://github.com/xdvrx1/github-pages-tutorial)
