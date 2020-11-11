@@ -26,13 +26,13 @@ Make sure that you initialize it with the `README.md`, if not,
 you should create one also.
 
 Add description about you and this, of course, you must change
-the details
+the details:
 
 ```
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=[yourusername]&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 ```
 It's now embedded in your GitHub Profile! You can still change 
-the setting. Refer to the details [here](https://github.com/anuraghazra/github-readme-stats).
+the settings. Refer to the details [here](https://github.com/anuraghazra/github-readme-stats).
 
 ## App Stat Computation Breakdown
 The breakdown of the components:
