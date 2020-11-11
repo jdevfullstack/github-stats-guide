@@ -16,6 +16,14 @@ https://github-readme-stats.vercel.app/api?username=[yourusername]
 make sure you include your private repos, 
 include `&count_private=true`.
 
+Now, in order for you to display this in your profile,
+if ever you don't have one, make sure you create one.
+Create a repository with the same name as your username.
+It is a special repository that will appear in your profile.
+
+so mine is: `xdvrx1/xdvrx1`
+
+## App Stat Computation Breakdown
 The breakdown of the components:
 
 ```
