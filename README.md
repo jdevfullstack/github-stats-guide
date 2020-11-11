@@ -114,7 +114,7 @@ leave a star to an external repo. This is the star
 that you received from your forked repos and original
 repos, your star to your own repo
 or forked repo is counted also.
-So, say, you fork 1k repos and you star them
+So, say, you fork 1k repos and you have starred them
 by yourself, you will still have 1k stars and
 it's part of the computation.
 
