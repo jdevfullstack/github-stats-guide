@@ -97,13 +97,14 @@ computation is actually your repos and
 repos of others when you create pull requests, even
 if they simply closed them. But of course, you can't create
 spam. So, in order to achieve this, you want to focus
-on a pull request even simply changing something at the 
-README file of others. What I did was 
+on a pull request. It's not always about submitting
+proposed changes in a code base,
+even simply changing something at the 
+README file of others will do. What I did was 
 a pull request to add a Page View in a README file.
 If you click the README file of others, then click
-the edit button, it will automatically create a fork 
-(your copy of that particular repo) (we'll return to
-forking later to generate stars).
+the edit button, it will automatically create a fork.
+Then, edit the file and create a pull request.
 
 ## Forking Repos & Your Stars 
 You can generate more stars by forking several repos
