@@ -16,8 +16,7 @@ https://github-readme-stats.vercel.app/api?username=[yourusername]
 make sure you include your private repos, 
 include `&count_private=true`.
 
-The weight and the components involve 
-how they generate the rank:
+The breakdown of the components:
 
 ```
   const COMMITS_OFFSET = 1.65;
@@ -27,7 +26,8 @@ how they generate the rank:
   const PRS_OFFSET = 0.5;
   const FOLLOWERS_OFFSET = 0.45;
   const REPO_OFFSET = 1;
-  ```
+```
+  
 this is directly from the code of the app itself, so 
 you want to focus on `commits` and `contrib`.
 
