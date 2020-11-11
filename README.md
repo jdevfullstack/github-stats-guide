@@ -29,6 +29,14 @@ The weight and the components involve how they generate the rank:
 this is directly from the code of the app itself, so 
 you want to focus on `commits` and `contrib`.
 
+## Rationale
+This is not to cheat an app or to fake something. 
+Remember, the stats of GitHub can be misleading
+even if a software developer is good enough.
+
+If you really feel that you deserve that rank,
+then go for it.
+
 ## Commits
 Commits are very easy to generate, simply create a private repo
 named `test` so that it will look like you are testing GitHub
@@ -38,14 +46,6 @@ to 3k commits,
 it does not mean you are coding, simply create a file
 and for every change, even just a single letter, click commit.
 That's the purpose of this hacking.
-
-## Rationale
-This is not to cheat an app or to fake something. 
-Remember, the stats of GitHub can be misleading
-even if a software developer is good enough.
-
-If you really feel that you deserve that rank,
-then go for it.
 
 ## Contributions
 Contributions to repos are actually your repos and
