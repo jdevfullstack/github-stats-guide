@@ -78,8 +78,8 @@ repos of others when you create pull requests, even
 if they simply closed them. But of course, you can't create
 spam. So, in order to achieve this, you want to focus
 on a pull request even simply changing something at the 
-README file of others. What I did was to add
-a Page View in a README file.
+README file of others. What I did was 
+a pull request to add a Page View in a README file.
 If you click the README file of others, then click
 the edit button, it will automatically create a fork 
 (your copy of that particular repo) (we'll return to
