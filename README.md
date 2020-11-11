@@ -137,7 +137,7 @@ even though they are not actually famous or
 their profile is not even good or they have also 
 that kind of initiative.
 Even though the weight is just .45, 
-you still need an audience for your projects.
+you still need audience for your projects.
 
 When I started doing these things, I was shocked
 when I visited my Google Analytics for my site.
