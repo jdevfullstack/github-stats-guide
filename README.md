@@ -37,6 +37,7 @@ Much more, this should not be interpreted as spam.
 
 But remember, the stats of GitHub can be misleading
 even if a software developer is good enough.
+
 If you only use GitHub to code and code, you
 would not have much good standing. GitHub
 encourages non-code use, always remember that.
