@@ -114,11 +114,14 @@ It's just like building a linkedin network.
 
 The simple rule is try to reach out: follow others
 that will follow you back and for those who followed
-you, follow them back. The chances are high if you
-look at those followers of a user even though
-they are not actually famous or their profile is
-not even good or they have also that kind of initiative.
+you, follow them back. The chances are high if
+you follow those who are willing to follow others too,
+even though they are not actually famous or 
+their profile is not even good or they have also 
+that kind of initiative.
 Even though the weight is just .45, still
 you need an audience to your project.
 
-
+When I started doing these things, I was shocked
+when I visited my Google Analytics for my site.
+The web traffic was good.
