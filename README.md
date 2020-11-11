@@ -33,14 +33,14 @@ you want to focus on `commits` and `contrib`.
 
 ## Rationale
 This is not to cheat an app or to fake something.
-Much more, this is not to encourage spam.
+Much more, this should not be interpreted as spam.
 
 But remember, the stats of GitHub can be misleading
 even if a software developer is good enough.
 If you only use GitHub to code and code, you
 would not have much good standing. GitHub
 encourages non-code use, always remember that.
-It's just like it can be used just like Google Docs.
+It's just like it can be used as Google Docs.
 That's the point.
 
 If you really feel that you deserve that rank,
