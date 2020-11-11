@@ -65,6 +65,11 @@ GitHub. Others were already using GitHub for
 laws article, to-do list, music composition,
 itinerary etc.
 
+You can check 
+[this](https://github.com/xdvrx1/github-pages-tutorial)
+out if you are not familiar
+with GitHub Pages.
+
 ## Contributed To
 The `Contributed To` component as part of the 
 computation is actually your repos and
