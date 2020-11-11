@@ -45,6 +45,13 @@ private commits in the API. Then you want to have say 2k
 to 3k commits,
 it does not mean you are coding, simply create a file
 and for every change, even just a single letter, click commit.
+
+Or, you can simply have a private repo that is your
+diary. Of course, it will generate a lot of commits
+or simply create a website. GitHub itself
+encourages non-code project so there is no wrong
+doing these things.
+
 That's the purpose of this hacking.
 
 ## Contributions
