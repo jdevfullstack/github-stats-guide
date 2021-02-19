@@ -131,15 +131,16 @@ You don't need to be famous to have followers.
 All you need is the initiative to follow others too.
 It's just like building a linkedin network. 
 
-The simple rule is try to reach out: follow others
+The simple rule is trying to reach out: follow others
 that will follow you back and for those who followed
 you, follow them back. The chances are high if
-you follow those who are willing to follow others too,
-even though they are not actually famous or 
-their profile is not even good or they have also 
-that kind of initiative.
-Even though the weight is just .45, 
-you still need audience for your projects.
+you follow those who are willing to follow others too.
+My example is myself, I
+am not even a famous, but I already have more 
+than 1k followers.
+And even though the weight is just .45, 
+you still need an audience for your projects.
+That's really a good reason to pursue this.
 
 When I started doing these things, I was shocked
 when I visited my Google Analytics for my site.
