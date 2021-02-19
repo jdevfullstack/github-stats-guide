@@ -134,10 +134,10 @@ It's just like building a linkedin network.
 The simple rule is try to reach out: follow others
 that will follow you back and for those who followed
 you, follow them back. The chances are high if
-you follow those who are willing to follow others too,
-even though they are not actually famous or 
-their profile is not even good or they have also 
-that kind of initiative.
+you follow those who are willing to follow others too.
+My example is myself, I
+am not even a famous, but I already have more 
+than 1k followers.
 Even though the weight is just .45, 
 you still need audience for your projects.
 
