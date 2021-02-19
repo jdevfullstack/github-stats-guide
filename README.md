@@ -131,7 +131,7 @@ You don't need to be famous to have followers.
 All you need is the initiative to follow others too.
 It's just like building a linkedin network. 
 
-The simple rule is try to reach out: follow others
+The simple rule is trying to reach out: follow others
 that will follow you back and for those who followed
 you, follow them back. The chances are high if
 you follow those who are willing to follow others too.
