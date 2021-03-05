@@ -78,6 +78,7 @@ a lot of commits.
 Another option is to simply create a tutorial website,
 even if it is not tech-related. Don't you know
 that the markdown is really for blogging back then?
+(Don't get me wrong, blogging is still relevant today.)
 It simplifies everything, even a tutorial website.
 Markdown is the default markup language of GitHub,
 particularly for the README file.
