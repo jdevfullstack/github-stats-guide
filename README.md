@@ -95,9 +95,8 @@ with GitHub Pages.
 
 ## Contributed To
 The `Contributed To` component as part of the 
-computation is actually your repos and
-repos of others when you create pull requests
-and have them merged to the `main` branch. 
+computation is when you create pull requests
+and were merged to the `main` branch. 
 
 It's not always about submitting
 proposed changes in a code base,
