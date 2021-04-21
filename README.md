@@ -96,10 +96,10 @@ with GitHub Pages.
 ## Contributed To
 The `Contributed To` component as part of the 
 computation is actually your repos and
-repos of others when you create pull requests, even
-if they were not merged. But of course, you can't create
-spam. So, in order to achieve this, you want to focus
-on a pull request. It's not always about submitting
+repos of others when you create pull requests
+and have them merged to the `main` branch. 
+
+It's not always about submitting
 proposed changes in a code base,
 even simply changing something at the 
 README file of others will do. What I did was 
