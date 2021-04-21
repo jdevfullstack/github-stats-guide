@@ -112,11 +112,11 @@ Then, edit the file and create a pull request.
 You can generate more stars by forking several repos
 and leaving a star to each fork.
 
-Take note, this is not the stars in GitHub when you
+Take note, this is not the stars on GitHub when you
 leave a star to an external repo. This is the star
 that you received from your forked repos and original
-repos, your star to your own repo
-or forked repo is counted also.
+repos.
+
 So, say, you fork 1k repos and you have starred them
 by yourself, you will still have 1k stars and
 it's part of the computation.
