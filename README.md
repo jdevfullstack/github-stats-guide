@@ -103,7 +103,7 @@ on a pull request. It's not always about submitting
 proposed changes in a code base,
 even simply changing something at the 
 README file of others will do. What I did was 
-a pull request to add a Page View in a README file.
+a pull request to add a Page View on a README file.
 If you click the README file of others, then click
 the edit button, it will automatically create a fork.
 Then, edit the file and create a pull request.
