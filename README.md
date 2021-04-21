@@ -96,7 +96,7 @@ with GitHub Pages.
 ## Contributed To
 The `Contributed To` component as part of the 
 computation is when you create pull requests
-and were merged to the `main` branch. 
+and are merged to the `main` branch. 
 
 It's not always about submitting
 proposed changes in a code base,
