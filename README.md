@@ -109,23 +109,9 @@ the edit button, it will automatically create a fork.
 Then, edit the file and create a pull request.
 
 ## Forking Repos & Your Stars 
-You can generate more stars by forking several repos
-and leaving a star to each fork.
-
 Take note, this is not the stars on GitHub when you
 leave a star to an external repo. This is the star
-that you received from your forked repos and original
-repos.
-
-So, say, you fork 1k repos and you have starred them
-by yourself, you will still have 1k stars and
-it's part of the computation.
-
-My suggestion is that you fork those small and
-medium-sized projects. For one, it will
-benefit them, they need support. And the chances are high
-if you want to change something even in the README
-that it will be accepted.
+that you received from your original repos.
 
 ## Followers
 You don't need to be famous to have followers.
