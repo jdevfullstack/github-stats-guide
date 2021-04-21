@@ -108,7 +108,7 @@ If you click the README file of others, then click
 the edit button, it will automatically create a fork.
 Then, edit the file and create a pull request.
 
-## Forking Repos & Your Stars 
+## Your Stars 
 Take note, this is not the stars on GitHub when you
 leave a star to an external repo. This is the star
 that you received from your original repos.
