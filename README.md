@@ -131,3 +131,23 @@ That's really a good reason to pursue this.
 When I started doing these things, I was shocked
 when I visited my Google Analytics for my site.
 The web traffic was good.
+
+And now, I realized one more thing: even if
+others don't follow back, just continue following
+more and more. Remember, others are paying
+for their page to be promoted on other
+sites, the act of following others is just
+like an advertisement also: others will
+know your content. The only difference
+is that you don't pay following
+others but with the same advertisement 
+effect.
+
+Just don't overdo it much on GitHub, because
+it will appear on the dashboard of your
+followers and if you follow, say, more
+than 200 without a gap, their dashboard
+will be clogged with that and all
+the other necessary information for them
+will be removed automatically. They will
+be annoyed by that, for sure.
