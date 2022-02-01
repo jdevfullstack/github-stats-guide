@@ -123,7 +123,7 @@ you, follow them back. The chances are high if
 you follow those who are willing to follow others too.
 My example is myself, I
 am not even a famous, but I already have more 
-than 1k followers.
+than 1k followers (as of this writing).
 And even though the weight is just .45, 
 you still need an audience for your projects.
 That's really a good reason to pursue this.
