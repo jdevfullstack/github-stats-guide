@@ -157,18 +157,18 @@ be annoyed by that, for sure.
 
 ## More Of My Topics
 
-### <https://github.com/jdevstatic/basic-electronics>
+#### <https://github.com/jdevstatic/basic-electronics>
 
-### <https://github.com/jdevstatic/programming-core-concepts>
+#### <https://github.com/jdevstatic/programming-core-concepts>
 
-### <https://github.com/jdevstatic/github-pages-tutorial>
+#### <https://github.com/jdevstatic/github-pages-tutorial>
 
-### <https://github.com/jdevstatic/java>
+#### <https://github.com/jdevstatic/java>
 
-### <https://github.com/jdevstatic/lightweight-web-server>
+#### <https://github.com/jdevstatic/lightweight-web-server>
 
-### <https://github.com/jdevstatic/java-coding-problems>
+#### <https://github.com/jdevstatic/java-coding-problems>
 
-### <https://github.com/jdevstatic/PureBasic-FileExplorer>
+#### <https://github.com/jdevstatic/PureBasic-FileExplorer>
 
-### <https://github.com/jdevstatic/PureBasic-Scrabble>
+#### <https://github.com/jdevstatic/PureBasic-Scrabble>
