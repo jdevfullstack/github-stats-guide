@@ -14,12 +14,10 @@ include it in your GitHub profile, and you're done.
   to generate your rank.
 - No installation is required; just get the URL of the app, change the details 
   to refer to your account, and you're done.
-
-example: 
-```
-https://github-readme-stats.vercel.app/api?username=[yourusername]
-```
-make sure you include your private repos if you enabled your own instance, `&count_private=true`.
+  
+  ```
+  https://github-readme-stats.vercel.app/api?username=[yourusername]
+  ```
 
 ## Displaying in Your Profile
 1. Create a repository with the same name as your username (e.g., `jdevfullstack/jdevfullstack`). 
@@ -143,20 +141,8 @@ the other necessary information for them
 will be removed automatically. They will
 be annoyed by that, for sure.
 
-## More Of My Topics
-
-#### <https://github.com/jdevstatic/basic-electronics>
-
-#### <https://github.com/jdevstatic/programming-core-concepts>
-
-#### <https://github.com/jdevstatic/github-pages-tutorial>
-
-#### <https://github.com/jdevstatic/java>
-
-#### <https://github.com/jdevstatic/lightweight-web-server>
-
-#### <https://github.com/jdevstatic/java-coding-problems>
-
-#### <https://github.com/jdevstatic/PureBasic-FileExplorer>
-
-#### <https://github.com/jdevstatic/PureBasic-Scrabble>
+## More Of My Content
+- [jdevfullstack Profile](https://github.com/jdevfullstack)
+- [jdevfullstack Repos](https://github.com/jdevfullstack?tab=repositories)
+- [jdevfullstack Projects](https://github.com/jdevfullstack-projects)
+- [jdevfullstack Tutorials](https://github.com/jdevfullstack-tutorials)
