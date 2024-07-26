@@ -1,43 +1,35 @@
-# Hacking The Github Stats
+# Hacking The GitHub Stats
 
-*`updated 28 May 2023`*
+*`updated July 26, 2024`*
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fhacking-the-github-stats&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
-The [GitHub Stats](https://github.com/anuraghazra/github-readme-stats) 
-is an external service to display your ranking based on commits, PRs,
-issues etc. You just simply need the URL and change the details,
-include it in your GitHub profile and you're done.
+The [GitHub Stats](https://github.com/anuraghazra/github-readme-stats) is an 
+external service that displays your ranking based on commits, PRs, issues, 
+etc. You simply need the URL, change the details to refer to your account, 
+include it in your GitHub profile, and you're done.
 
-If you don't have any idea how it works, it is an external web app
-that uses GitHub data (through its API) to generate your rank. 
-You don't need to install anything, you just simply get the URL
-of the app, change the details so that it's referring to your account
-and you're done.
+## How It Works
+- GitHub Stats is an external web app that uses GitHub data (through its API) 
+  to generate your rank.
+- No installation is required; just get the URL of the app, change the details 
+  to refer to your account, and you're done.
 
+example: 
 ```
 https://github-readme-stats.vercel.app/api?username=[yourusername]
 ```
-make sure you include your private repos, `&count_private=true`.
+make sure you include your private repos if you enabled your own instance, `&count_private=true`.
 
-Now, in order for you to display this in your profile,
-if ever you don't have one, make sure you create one.
-Create a repository with the same name as your username.
-It is a special repository that will appear in your profile.
-
-so mine is: `xdvrx1/xdvrx1`
-
-Make sure that you initialize it with the `README.md`, if not,
-you should create one also.
-
-Add description about you and this, of course, you must change
-the details:
-
-```
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=[yourusername]&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
-```
-It's now embedded in your GitHub Profile! You can still change 
-the settings. Refer to the details [here](https://github.com/anuraghazra/github-readme-stats).
+## Displaying in Your Profile
+1. Create a repository with the same name as your username (e.g., `jdevfullstack/jdevfullstack`). 
+   This special repository will appear in your profile.
+2. Initialize it with a `README.md` file, or create one if it doesn't exist.
+3. Add a description about yourself and include the following code, replacing `[yourusername]` with your GitHub username:
+   ```html
+   <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=[yourusername]&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+4. The stats are now embedded in your GitHub Profile! You can still change the 
+   settings. Refer to the details [here](https://github.com/anuraghazra/github-readme-stats).
 
 ## App Stat Computation Breakdown
 This is the latest computation and the factors involved:
