@@ -98,44 +98,29 @@ leave a star to an external repo. This is the star
 that you received from your original repos.
 
 ## Followers
-You don't need to be famous to have followers.
-All you need is the initiative to follow others too.
-It's just like building a linkedin network. 
+You don't need to be famous to have followers. All it takes 
+is the initiative to follow others. It's similar to building 
+a LinkedIn network.
 
-The simple rule is trying to reach out: follow others
-that will follow you back and for those who followed
-you, follow them back. The chances are high if
-you follow those who are willing to follow others too.
-My example is myself, I
-am not even a famous, but I already have more 
-than 1k followers (as of this writing).
-And even though the weight is just .45, 
-you still need an audience for your projects.
-That's really a good reason to pursue this.
+Be proactive: follow others who are likely to follow you 
+back, and reciprocate by following those who follow you. The 
+chances are high if you follow those who are also looking to 
+build their network. For example, I am not famous, but I 
+have more than 3k followers.
 
-When I started doing these things, I was shocked
-when I visited my Google Analytics for my site.
-The web traffic was good.
+In the past, when I started doing this, 
+I was surprised by the increase in web traffic to
+my site, as shown by Google Analytics.
 
-And now, I realized one more thing: even if
-others don't follow back, just continue following
-more and more. Remember, others are paying
-for their page to be promoted on other
-sites, the act of following others is just
-like an advertisement also: others will
-know your content. The only difference
-is that you don't pay following
-others but with the same advertisement 
-effect.
+Remember, even if some don't follow back, keep following 
+more people. This act is like free advertisement: others 
+will become aware of your content. Unlike paid promotions, 
+following others costs nothing but has a similar effect.
 
-Just don't overdo it much on GitHub, because
-it will appear on the dashboard of your
-followers and if you follow, say, more
-than 200 without a gap, their dashboard
-will be clogged with that and all
-the other necessary information for them
-will be removed automatically. They will
-be annoyed by that, for sure.
+However, don't overdo it on GitHub. Following too many 
+people in a short period can clutter your followers' 
+dashboards, potentially annoying them. Be mindful and 
+considerate in your approach.
 
 ## More Of My Content
 - [jdevfullstack Profile](https://github.com/jdevfullstack)
