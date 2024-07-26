@@ -40,20 +40,16 @@ It's now embedded in your GitHub Profile! You can still change
 the settings. Refer to the details [here](https://github.com/anuraghazra/github-readme-stats).
 
 ## App Stat Computation Breakdown
-The breakdown of the components:
+This is the latest computation and the factors involved:
 
-```
-  const COMMITS_OFFSET = 1.65;
-  const CONTRIBS_OFFSET = 1.65;
-  const ISSUES_OFFSET = 1;
-  const STARS_OFFSET = 0.75;
-  const PRS_OFFSET = 0.5;
-  const FOLLOWERS_OFFSET = 0.45;
-  const REPO_OFFSET = 1;
-```
-  
-this is directly from the code of the app itself, so 
-you want to focus on `commits` and `contrib`.
+- **Commits**: 16.67%
+- **Pull Requests (PRs)**: 25%
+- **Issues**: 8.33%
+- **Reviews**: 8.33%
+- **Stars**: 33.33%
+- **Followers**: 8.33%
+
+Refer to the code for detailed information: [calculateRank.js](https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js)
 
 ## Rationale
 This is not to cheat an app or to fake something.
