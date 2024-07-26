@@ -92,6 +92,31 @@ For more information on creating websites with GitHub,
 check out 
 [this tutorial](https://github.com/jdevfullstack/github-pages-tutorial) about GitHub Pages.
 
+## Pull Requests
+Pull requests are a great way to contribute to projects and 
+generate activity on your GitHub profile. They are not 
+limited to coding; you can create pull requests for various 
+types of contributions : 
+
+- **Documentation**: Improve or add documentation for 
+  projects. This can include README files, wikis, or 
+  tutorials.
+- **Design**: Contribute design assets, such as logos, 
+  icons, or UI/UX improvements.
+- **Translations**: Help translate project documentation 
+  into different languages.
+- **Bug Reports**: Identify and document bugs, and propose 
+  fixes or improvements.
+- **Community Management**: Suggest improvements for 
+  community guidelines, code of conduct, or contribution 
+  guidelines.
+- **Educational Content**: Add educational resources, such 
+  as example projects, code snippets, or learning materials.
+
+By contributing in these ways, you can create meaningful 
+pull requests that benefit the community and enhance your 
+GitHub profile.
+
 ## Your Stars 
 Take note, this is not the stars on GitHub when you
 leave a star to an external repo. This is the star
