@@ -63,8 +63,8 @@ participate in the community and showcase your full range
 of abilities. This is why we have this *unofficial* ranking.
 
 ## Commits
-If you did create your own instance of the app
-[like this](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#deploy-on-your-own),
+If you did create your own instance of the app like
+[this](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#deploy-on-your-own),
 make sure you turn on private commits 
 in the API `include_all_commits=true`. 
 If you are privately coding, professionally or personally,
