@@ -63,43 +63,35 @@ participate in the community and showcase your full range
 of abilities. This is why we have this *unofficial* ranking.
 
 ## Commits
-Make sure that you turn on 
-private commits in the API, as was
-instructed above, so that you can simply
-create a diary, for example. It will generate 
-a lot of commits.
+If you did create your own instance of the app
+[like this](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#deploy-on-your-own),
+make sure you turn on private commits 
+in the API `include_all_commits=true`. 
+If you are privately coding, professionally or personally,
+that will be counted.
 
-Another option is to simply create a tutorial website,
-even if it is not tech-related. Don't you know
-that the markdown is really for blogging back then?
-(Don't get me wrong, blogging is still relevant today.)
-It simplifies everything, even a tutorial website.
-Markdown is the default markup language of GitHub,
-particularly for the README file.
+Another option is to create a tutorial website, tech or non-tech. 
+Markdown, originally designed for 
+blogging, simplifies creating content. It is the default 
+markup language for GitHub, especially for README files.
 
-Or, if you are a writer writing stories, do that in
-GitHub. Others were already using GitHub for
-laws articles, to-do lists, music compositions,
-itineraries etc.
+If you are a writer, consider writing your stories on 
+GitHub. Many people use GitHub for various purposes, such 
+as legal articles, to-do lists, music compositions, and 
+itineraries.
 
-You can check 
-[this](https://github.com/xdvrx1/github-pages-tutorial)
-out if you are not familiar
-with GitHub Pages.
+Additionally, you can generate commits by:
 
-## Contributed To
-The `Contributed To` component as part of the 
-computation is when you create pull requests
-and are merged to the `main` branch. 
+- Contributing to documentation for open-source projects.
+- Participating in discussions and issue tracking.
+- Creating and maintaining wikis.
+- Managing project boards and tasks.
+- Uploading design assets or artwork.
+- Sharing research notes or academic papers.
 
-It's not always about submitting
-proposed changes in a code base,
-even simply changing something at the 
-README file of others will do. What I did was 
-a pull request to add a Page View on a README file.
-If you click the README file of others, then click
-the edit button, it will automatically create a fork.
-Then, edit the file and create a pull request.
+For more information on creating websites with GitHub, 
+check out 
+[this tutorial](https://github.com/xdvrx1/github-pages-tutorial) about GitHub Pages.
 
 ## Your Stars 
 Take note, this is not the stars on GitHub when you
