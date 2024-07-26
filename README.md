@@ -52,8 +52,9 @@ of activities beyond just coding, such as participating in
 discussions, reviewing code, and contributing to 
 documentation.
 
-Think of GitHub as more than just a coding platform—it's a 
-collaborative space similar to Google Docs. Engaging in 
+Think of GitHub as more than just a coding platform — 
+it's an interactive space similar 
+to any other social media. Engaging in 
 diverse activities on GitHub can provide a more accurate 
 representation of your contributions and skills.
 
