@@ -42,20 +42,25 @@ This is the latest computation and the factors involved:
 Refer to the code for detailed information: [calculateRank.js](https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js)
 
 ## Rationale
-This is not to cheat an app or to fake something.
-Much more, this should not be interpreted as spam.
+This is not about tricking the system or creating fake 
+contributions. It is important to understand that GitHub 
+statistics can sometimes be misleading, even for highly 
+skilled developers.
 
-But remember, the stats of GitHub can be misleading
-even if a software developer is good enough.
+If you only use GitHub for coding, your profile might not 
+fully reflect your abilities. GitHub encourages a variety 
+of activities beyond just coding, such as participating in 
+discussions, reviewing code, and contributing to 
+documentation.
 
-If you only use GitHub to code and code, you
-would not have a good standing. GitHub
-encourages non-code use, always remember that.
-It's just like it can be used as Google Docs.
-That's the point.
+Think of GitHub as more than just a coding platform—it's a 
+collaborative space similar to Google Docs. Engaging in 
+diverse activities on GitHub can provide a more accurate 
+representation of your contributions and skills.
 
-If you really feel that you deserve that rank,
-then go for it.
+If you believe you deserve a higher rank, actively 
+participate in the community and showcase your full range 
+of abilities. This is why we have this *unofficial* ranking.
 
 ## Commits
 Make sure that you turn on 
