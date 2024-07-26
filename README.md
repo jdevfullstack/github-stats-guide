@@ -43,9 +43,8 @@ Refer to the code for detailed information: [calculateRank.js](https://github.co
 
 ## Rationale
 This is not about tricking the system or creating fake 
-contributions. It is important to understand that GitHub 
-statistics can sometimes be misleading, even for highly 
-skilled developers.
+contributions. Remember, GitHub Stats can sometimes 
+be misleading, even for highly skilled developers.
 
 If you only use GitHub for coding, your profile might not 
 fully reflect your abilities. GitHub encourages a variety 
@@ -91,7 +90,7 @@ Additionally, you can generate commits by:
 
 For more information on creating websites with GitHub, 
 check out 
-[this tutorial](https://github.com/xdvrx1/github-pages-tutorial) about GitHub Pages.
+[this tutorial](https://github.com/jdevfullstack/github-pages-tutorial) about GitHub Pages.
 
 ## Your Stars 
 Take note, this is not the stars on GitHub when you
