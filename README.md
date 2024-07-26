@@ -97,6 +97,9 @@ Take note, this is not the stars on GitHub when you
 leave a star to an external repo. This is the star
 that you received from your original repos.
 
+So keep on creating quality content on GitHub, 
+code or non-code !
+
 ## Followers
 You don't need to be famous to have followers. All it takes 
 is the initiative to follow others. It's similar to building 
