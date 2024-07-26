@@ -82,12 +82,12 @@ itineraries.
 
 Additionally, you can generate commits by:
 
-- Contributing to documentation for open-source projects.
-- Participating in discussions and issue tracking.
-- Creating and maintaining wikis.
-- Managing project boards and tasks.
-- Uploading design assets or artwork.
-- Sharing research notes or academic papers.
+- contributing to documentation for open-source projects
+- participating in discussions and issue tracking
+- creating and maintaining wikis
+- managing project boards and tasks
+- uploading design assets or artwork
+- sharing research notes or academic papers
 
 For more information on creating websites with GitHub, 
 check out 
