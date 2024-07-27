@@ -69,7 +69,8 @@ If you did create your own instance of the app like
 [this](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#deploy-on-your-own),
 make sure you turn on private commits 
 in the API `include_all_commits=true`. 
-If you are privately coding, professionally or personally,
+For sure, if your private commits are massive, 
+like you are privately coding, professionally or personally,
 that will be counted.
 
 Another option is to create a tutorial website, tech or non-tech. 
