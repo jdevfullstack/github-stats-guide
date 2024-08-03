@@ -26,8 +26,11 @@ include it in your GitHub profile, and you're done.
 2. Initialize it with a `README.md` file, or create one if it doesn't exist.
 3. Add a description about yourself and include the following 
    code, replacing `[yourusername]` with your GitHub username :
+
    ```html
    <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=[yourusername]&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+   ```
+
 4. The stats are now embedded in your GitHub Profile! You can still change the 
    settings. Refer to the details [here](https://github.com/anuraghazra/github-readme-stats).
 
