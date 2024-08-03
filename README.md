@@ -1,4 +1,4 @@
-# Hacking The GitHub Stats
+# The GitHub Stats Guide
 
 *`updated July 26, 2024`*
 
